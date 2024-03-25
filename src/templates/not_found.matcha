@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <script src="/vendor/htmx.min.js"></script>
+    <title>Link Shortener in Gleam and HTMX</title>
+  </head>
+  <body>
+    <h1>Link Not Found</h1>
+  </body>
+</html>
